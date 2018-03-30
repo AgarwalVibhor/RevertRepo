@@ -1,3 +1,4 @@
 This is the second file in the develop branch.
 
+This second file has been changed in the feature branch.
 This is the third file in the series.
